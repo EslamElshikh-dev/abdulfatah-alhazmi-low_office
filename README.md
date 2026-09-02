@@ -45,5 +45,5 @@
 
 ---
 <div align="center">
-  <p><b>Designed and Developed by: Eng. Islam Al-Sheikh</b></p>
+  <p><b>Designed and Designed & developed by: Eng. Islam Al-Sheikh</b></p>
 </div>
